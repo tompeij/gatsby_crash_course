@@ -5,4 +5,4 @@ title: "My First Gatsby Post"
 author: "Jason Thompson"
 ---
 
-This is my very **first blog** post in Gatsby.
+This is my very **first blog** post in Gatsby. This has been deployed :)
